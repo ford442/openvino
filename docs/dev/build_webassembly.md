@@ -13,7 +13,7 @@ The approach is validated on Linux, Windows and macOS operation systems.
 1. Clone OpenVINO repository and init submodules:
 ```sh
 git clone https://github.com/openvinotoolkit/openvino.git
-cd openvinof
+cd openvino
 git submodule update --init --recursive
 ```
 2. Run docker image and mount a volume with OpenVINO source code:
